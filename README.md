@@ -117,7 +117,7 @@ At the edge of the mobility, implementations is Prakash Software’s Enterprise 
 
 <h3 id="Microsoft Azure">3) Microsoft Azure Storage </h3>
 
-<img src="https://prakashinfotech.com/files/catalog/technology/details-page/microsoft-azure-storage-recovery-services/img-data-recovery.png" width="200" height="100">
+<img src="https://www.blomp.com/wp-content/uploads/2022/05/The-6-Secrets-You-Should-Know-About-Cloud-Storage.jpeg" width="200" height="100">
 
 Prakash Software Solutions Pt. Ltd provides Microsoft Azure Backup and Disaster Recovery Services. This makes way for robust and scalable cloud storage and recovery solution powered by the very reliable Microsoft Azure which allows data backup of any size.
 
@@ -127,7 +127,7 @@ Microsoft Azure storage, backup, and recovery management solutions assure peace 
 
 Prakash offers end-to-end services for organizations looking for an optimal path to Azure app migration. A compatibility analysis for the newer cloud environment, a compliance adherence check, a disaster-recovery readiness test, an SLA check, and a security audit ensures a safe and reliable approach before moving applications to the Azure cloud.
 
-<img src="https://prakashinfotech.com/files/catalog/technology/details-page/microsoft-azure-migration-service/img-benefit.png" width="200" height="100">
+<img src="https://www.nexsoftsys.com/articles/images/application-migration.jpg" width="200" height="100">
 
 <h4 id="Benefits">Key benefits of Microsoft Azure Application Migration Services </h4>
 
